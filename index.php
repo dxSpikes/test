@@ -4,5 +4,6 @@
     echo "another";
     echo "succesful";
     echo "yes";
+    echo "another";
 ?>
 
