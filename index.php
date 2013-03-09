@@ -3,5 +3,6 @@
 	echo "xxx";
     echo "another";
     echo "succesful";
+    echo "yes";
 ?>
 
